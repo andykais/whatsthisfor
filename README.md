@@ -1,13 +1,13 @@
 # whatsthisfor
 cli for discovering what those mysterious config files do and where to find documentation on them
 
-# Installation
+## Installation
 ```bash
 # NOT AVAILABLE ON npmjs.com YET
 npm i -g whatsthisfor
 ```
 
-# Usage
+## Usage
 `whatsthisfor [file-pattern] [-r|--recurse]`
 ```
 $ cd projectdir
