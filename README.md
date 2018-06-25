@@ -17,16 +17,16 @@ $ ls -a
 ..                .gitignore              .tern-project            package.json
 
 $ whatsthisfor
-.gitignore gitignore
+.gitignore is for Git
   - summary            - specifies intentionally untracked files that Git should ignore
   - full documentation - https://git-scm.com/docs/gitignore
-.editorconfig EditorConfig
+.editorconfig is for EditorConfig
   - summary            - simple coding style editor preferences
   - full documentation - https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
-.tern-project TernJS
+.tern-project is for TernJS
   - summary            - Javascript stand-alone code-analysis engine used with a code-editor-plugin
   - full documentation - http://ternjs.net/doc/manual.html
-package.json NPM
+package.json is for NPM
   - summary            - nodejs project manifest
   - full documentation - https://docs.npmjs.com/files/package.json
 ```
